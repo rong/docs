@@ -1,0 +1,46 @@
+# Tech Due Diligence Template
+
+## The purpose of this document is to get a better understanding of 
+- the software and hardware stack
+- tech feature roadmap for the projected runway
+- team skill set and skill gap, in order to deliver the roadmap
+- associated cost
+- and to identify any potential risk involved
+
+Conducted by:			Date:
+
+Answered by:			Date:
+
+
+## Stack
+- describe your hardware stack. (hosted or purchased, SLA key terms)
+- describe your software stack. (language, website, app, node, storage, scaling, monitoring, alert, libraries and licenses used)
+- provide a high level summary/diagram of the main infrastructure/components
+- indentify potential bottleneck
+- describe your development, qa, deployment process and strategy (source control, unit test, continuous integration)
+
+## Roadmap
+- provide a product roadmap from a customer's perspective (features and timeframe)
+- identify any skill gap in order to deliver said features
+
+## Skill
+- list your current tech team members, and their role (summary, linkedin, github/stackoverflow account if any)
+- list your tech advisors (summary, linkedin, hiring experience)
+- list the growth skills and strategy (experience on the traction channels you will be working on)
+- describe the role of your next tech hire (skill gap to fill)
+- describe your knowledge distribution and documentation framework (onboarding new hire)
+
+## Cost
+- show your cost to run at current capacity, and projected cost to cater for 10x capacity
+- show a breakdown of cost (list all 3rd party tools used)
+- describe your billing process
+
+## Tracking & Reporting
+- what analytics capabilities have been built into the system
+- what are you tracking (key KPIs, conversion funnel, user interaction)
+- how do you track customer success
+
+## Risk
+- security provisioning (account hijacking, encryption, private data storage and usage)
+- customer data protection (privacy, billing/payment info, PCI DSS compliances)
+- backup & disaster recovery strategy (failover, redundancy)
