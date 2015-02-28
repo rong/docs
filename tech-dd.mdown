@@ -3,7 +3,7 @@
 ## The purpose of this document is to get a better understanding of 
 - the software and hardware stack
 - tech feature roadmap for the projected runway
-- team skill set and skill gap, in order to deliver the roadmap
+- team skill set and skill gap, in order to deliver the features
 - associated cost
 - and to identify any potential risk involved
 
@@ -16,7 +16,7 @@ Answered by:			Date:
 - describe your hardware stack. (hosted or purchased, SLA key terms)
 - describe your software stack. (language, website, app, node, storage, scaling, monitoring, alert, libraries and licenses used)
 - provide a high level summary/diagram of the main infrastructure/components
-- indentify potential bottleneck
+- identify potential bottleneck
 - describe your development, qa, deployment process and strategy (source control, unit test, continuous integration)
 
 ## Roadmap
